@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
   - name: myapp
-    image: andy2025/test:v8
+    image: andy2025/test:v19
     resources:
       limits:
         memory: "128Mi"
